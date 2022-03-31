@@ -1,0 +1,14 @@
+{
+  "name": "stacks-chainlink-examples",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "start": "node contract-call.js"
+  },
+  "dependencies": {
+    "@stacks/keychain": "^3.3.0",
+    "@stacks/network": "^3.3.0",
+    "@stacks/transactions": "^3.3.0",
+    "@stacks/wallet-sdk": "^3.4.0"
+  }
+}
