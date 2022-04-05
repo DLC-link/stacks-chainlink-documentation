@@ -35,4 +35,4 @@ You will need to implement the traits `.oracle-callback-trait.oracle-callback` a
 
 ## Getting STXLINK tokens
 
-To call the oracle contract you will need to have STXLINK tokens. To get these go to the [STXLINK Faucet](http://100.26.22.43) page and input a valid STX address.
+To call the oracle contract you will need to have STXLINK tokens. To get these go to the [STXLINK Faucet](https://stx-link-faucet.dlc.link/) page and input a valid STX address.
