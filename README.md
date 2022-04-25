@@ -1,5 +1,7 @@
 # Chainlink on Stacks
 
+Thanks to the team at [TinTash](https://bitbucket.org/tintash/), this project is based heavily on their initial work on [Chainlink integration onto Stacks](https://bitbucket.org/tintash/chainlink-integration/src/master/)
+
 Using [Chainlink](https://chain.link) DRM (Direct Request Model) Oracles on [Stacks](https://stacks.org).
 
 To enable chainlink oracle usage on stacks we have deployed a Chainlink Node with it's related smart contracts:
